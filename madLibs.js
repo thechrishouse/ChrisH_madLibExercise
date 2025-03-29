@@ -8,7 +8,7 @@ const robot = {
 
 const num1 = 8;
 const num2 = 2;
-const mathResult = 8/2;
+const mathResult = num1/num2;
 
 const isFascinating = true;
 const booleanValue = isFascinating ? 'Fascinating, right?' : "Not that fascinating, right?";
